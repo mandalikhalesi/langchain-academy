@@ -8,7 +8,7 @@ Welcome to LangChain Academy! This is a growing set of modules focused on founda
 
 ### Clone repo
 ```
-git clone https://github.com/langchain-ai/langchain-academy.git
+git clone https://github.com/mandalikhalesi/langchain-academy.git
 $ cd langchain-academy
 ```
 
