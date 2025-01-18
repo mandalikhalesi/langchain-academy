@@ -1,0 +1,8 @@
+LLMs - challenges as stateless and limited context length per interaction
+
+Langchain memory component - for ongoing conversation state
+
+When interaction reaches threshold -> summarization
+
+ConversationBufferMemory - chat message history in string format
+
